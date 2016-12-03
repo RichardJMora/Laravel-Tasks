@@ -3,8 +3,8 @@
 Una aplicación de Tareas construida utilizando el framework laravel.
 
 ## Getting Started
-
-Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
+Clonar el repositorio
+git clone https://github.com/RichardJMora/LaravelTasks.git
 
 ## Contributing
 
