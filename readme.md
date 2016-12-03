@@ -4,7 +4,7 @@ Una aplicación de Tareas construida utilizando el framework laravel.
 
 ## Getting Started
 Clonar el repositorio
-git clone https://github.com/RichardJMora/LaravelTasks.git fddf
+git clone https://github.com/RichardJMora/LaravelTasks.git
 
 Ejecute el comando siguiente para instalar las dependencias laravel
 
@@ -20,4 +20,4 @@ Una vez que la base de datos esta configurada y las migraciones realizdas ejecut
 
 php artisan serve
 
-Visita http: // localhost: 8000 / para ver la aplicación en acción.
+Visita http://localhost:8000/ para ver la aplicación en acción.
