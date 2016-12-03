@@ -4,7 +4,7 @@ Una aplicación de Tareas construida utilizando el framework laravel.
 
 ## Getting Started
 Clonar el repositorio
-git clone https://github.com/RichardJMora/LaravelTasks.git
+git clone https://github.com/RichardJMora/LaravelTasks.git fddf
 
 Ejecute el comando siguiente para instalar las dependencias laravel
 
@@ -20,11 +20,4 @@ Una vez que la base de datos esta configurada y las migraciones realizdas ejecut
 
 php artisan serve
 
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+Visita http: // localhost: 8000 / para ver la aplicación en acción.
