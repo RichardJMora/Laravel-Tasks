@@ -1,4 +1,4 @@
-# LaravelTasks
+# Tasks
 
 Una aplicación de Tareas construida utilizando el framework laravel.
 
@@ -6,9 +6,20 @@ Una aplicación de Tareas construida utilizando el framework laravel.
 Clonar el repositorio
 git clone https://github.com/RichardJMora/LaravelTasks.git
 
-## Contributing
+Ejecute el comando siguiente para instalar las dependencias laravel
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
+composer install
+
+## Configurando
+
+Configurar su base de datos en ell archivo .env y cd el directorio del proyecto a continuación, ejecute:
+
+php artisan migrate
+
+Una vez que la base de datos esta configurada y las migraciones realizdas ejecute:
+
+php artisan serve
+
 
 ## Security Vulnerabilities
 
